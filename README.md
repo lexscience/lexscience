@@ -24,8 +24,7 @@
 </div>
 
 
-Hello there, it's me - Larissa. Welcome to my GitHub! I am a PostDoc fellow at the Red Sea Research Center at KAUST, Saudi Arabia, trying to improve my coding game, learn new languages, save the oceans and always on the hunt for new input for sequence data analysis. 
-
+Hello there, it's me - Larissa. Welcome to my GitHub! I am a PostDoc fellow at the Red Sea Research Center at KAUST, Saudi Arabia, working om biodiversity assessments of various marine habitats, trying to improve my coding game, learn new languages, save the oceans and always on the hunt for eDNA or new input for sequence data analysis. 
 
 ---
 
