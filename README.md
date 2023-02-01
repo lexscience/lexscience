@@ -38,7 +38,7 @@ Hello there, it's me - Larissa. Welcome to my GitHub! I am a PostDoc fellow at t
 - 💬 Ask me about anything marine microbiology, coastal habitats, sharks or my favourite pasta recipe. 
 - 📫 How to reach me: larissa.fruehe@kaust.edu.sa
 - :standing_woman: Pronouns: she/her
-- ⚡ Fun fact: I don't dive. 
+- ⚡ Fun fact: I don't dive. Edit: I do dive now and its spectacular!
 
 
 ---
