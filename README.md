@@ -17,8 +17,10 @@
    <a href="https://orcid.org/my-orcid?orcid=0000-0001-5441-5971">
     <img src="https://img.shields.io/badge/ORCID-lightgreen?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge"/>
   </a>
-  <a href="https://orcid.org/my-orcid?orcid=0000-0001-5441-5971](https://www.lex-science.com">
-    </a>
+  <a href="https://www.lex-science.com">
+   <img src="https://img.shields.io/badge/-LexScience-important"/>
+  </a>
+   </a>
 </div>
 
 <div align="center">
