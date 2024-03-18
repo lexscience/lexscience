@@ -28,18 +28,20 @@
 </div>
 
 
-Hello there, it's me - Larissa. Welcome to my GitHub! I am a PostDoc fellow at the Red Sea Research Center at KAUST, Saudi Arabia, working om biodiversity assessments of various marine habitats, trying to improve my coding game, learn new languages, save the oceans and always on the hunt for eDNA or new input for sequence data analysis. 
+Hello there, it's me - Larissa. Welcome to my GitHub! I am a PostDoc with OceanX on a mission to explore Earth's oceans. Onboard the world's most advanced research vessel, the OceanXplorer, I conduct biodiversity assessments of various marine habitats from deep to shallow, focussing on multiple species and aims, meanwhile trying to improve my coding game, learn new languages, save the oceans and always on the hunt for eDNA or new input for sequence data analysis. 
 
 ---
 
 ### :woman_technologist: About Me
 
-- :dna: I’m currently working on the use of eDNA to assess Red Sea biodiversity and hopefully provide a baseline for conservation efforts. 
+- :dna: I’m currently working on the use of eDNA to assess marine biodiversity and hopefully provide a baseline for conservation efforts. 
 - 🌱 I’m currently learning as much as I can, mainly new statistical analysis in R, proper data clean up and everyting "meta". 
 - 👯 I’m looking to collaborate on anything marine microbiology, ecosystem health and environmental assessments. 
 - 🤔 I’m looking for help with getting started with Python and wrangling and analysis of metagenomic datasets.
 - 💬 Ask me about anything marine microbiology, coastal habitats, sharks or my favourite pasta recipe. 
-- 📫 How to reach me: larissa.fruehe@kaust.edu.sa
+- 📫 How to reach me: larissa.fruehe@oceanx.org
+- 🌊: Follow our journey to explore the ocean and bring it back to all of you: http://www.oceanx.org
+- 🎞️: Check out YouTube for updates on where I am collecting eDNA at the moment onboard OceanXplorer! https://www.youtube.com/c/OceanX
 - :standing_woman: Pronouns: she/her
 - ⚡ Fun fact: I don't dive. Edit: I do dive now and its spectacular!
 
