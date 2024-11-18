@@ -34,13 +34,13 @@ Hello there, it's me - Larissa. Welcome to my GitHub! I am a PostDoc with OceanX
 
 ### :woman_technologist: About Me
 
-- :dna: I’m currently working on the use of eDNA to assess marine biodiversity and hopefully provide a baseline for conservation efforts. 
+- :dna: I’m currently working on the use of eDNA to assess marine biodiversity and hopefully provide a baseline for conservation efforts and in the meantime exploring the magnificent oceans of our planet. 
 - 🌱 I’m currently learning as much as I can, mainly new statistical analysis in R, proper data clean up and everyting "meta". 
 - 👯 I’m looking to collaborate on anything marine microbiology, ecosystem health and environmental assessments. 
 - 🤔 I’m looking for help with getting started with Python and wrangling and analysis of metagenomic datasets.
 - 💬 Ask me about anything marine microbiology, coastal habitats, sharks or my favourite pasta recipe. 
 - 📫 How to reach me: larissa.fruehe@oceanx.org
-- 🌊: Follow our journey to explore the ocean and bring it back to all of you: http://www.oceanx.org
+- 🌊: Follow our journey to explore the ocean and bring it back to all of you: http://www.oceanxscience.org
 - 🎞️: Check out YouTube for updates on where I am collecting eDNA at the moment onboard OceanXplorer! https://www.youtube.com/c/OceanX
 - :standing_woman: Pronouns: she/her
 - ⚡ Fun fact: I don't dive. Edit: I do dive now and its spectacular!
